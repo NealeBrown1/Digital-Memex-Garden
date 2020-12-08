@@ -1,0 +1,89 @@
+{
+  "main": {
+    "id": "22edda392766d90f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8d4488c0a57ba39",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_pages/index.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d719189c9021188",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c23b17b936f86d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ca03d306294a0b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e0ac260dcb102b95",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "10894094a951269b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f0f48d7fa634ad9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff651d0ac5418557",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_pages/index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "_pages/index.md",
+    "_notes/videos-on-how-to-zk.md",
+    "_notes/your-first-note.md",
+    "_notes/program-pandoc.md",
+    "_notes/program-babelmark-for-markdown.md",
+    "_notes/hello-note.md",
+    "_notes/consistency.md",
+    "_notes/commonmark-markdown.md",
+    "_notes/cats.md",
+    "_notes/-zettelkasten.md"
+  ]
+}
